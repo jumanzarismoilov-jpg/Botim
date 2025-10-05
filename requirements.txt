@@ -1,2 +1,5 @@
 python-telegram-bot==20.3
 python-dotenv
+aiogram==2.25.1
+apscheduler
+python-dotenv
